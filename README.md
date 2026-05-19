@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jungle-protocol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Jungle Protocol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jungle-protocol/) |
+| **Get License** | [Music Rights & Licensing for Jungle Protocol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jungle-protocol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyaan da kaala jadoo karda haan feel right now
+> Main labhda haan tera parchhawaan, tell me how
+> Sahaan vich vassdi ae mehek teri sweet scent
+> Main haarda haan dil mera 100 percent
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
