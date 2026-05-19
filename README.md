@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jungle-protocol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Jungle Protocol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jungle-protocol/) |
+| **Get License** | [Secure Licensing Rights for Jungle Protocol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jungle-protocol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f3475f51448ca303a95de7f12f1a7a55596895ec957185433177108527b6d94f` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
